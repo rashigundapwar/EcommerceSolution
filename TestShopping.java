@@ -1,0 +1,9 @@
+package Ecommerce;
+
+public class TestShopping {
+	
+	public static void main(String[] args) {
+		//create object of all classes and communicate all and 
+		//developed the online shpping application
+	}
+}
